@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "cy:run": "npx cypress open --headed",
+    "cy:multi:browser": "npm run cy:run -- --browser chrome & npm run cy:run -- --browser firefox"
+  },
+  "devDependencies": {
+    "cypress": "^12.16.0",
+    "cypress-mochawesome-reporter": "^3.5.1",
+    "cypress-xpath": "^2.0.1"
+  }
+}

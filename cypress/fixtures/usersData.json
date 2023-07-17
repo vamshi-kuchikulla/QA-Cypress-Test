@@ -1,0 +1,52 @@
+[
+    {
+        "name": "CypressTest1",
+        "phone": "9123234121",
+        "email": "hi@cypress.io"
+    },
+    {
+        "name": "CypressTest2",
+        "phone": "9123234122",
+        "email": "hello@cypress.io"
+    },
+    {
+        "name": "CypressTest3",
+        "phone": "9123234123",
+        "email": "xpath@cypress.io"
+    },
+    {
+        "name": "CypressTest4",
+        "phone": "9123234124",
+        "email": "css@cypress.io"
+    },
+    {
+        "name": "CypressTest5",
+        "phone": "9123234125",
+        "email": "fixture@cypress.io"
+    },
+    {
+        "name": "CypressTest6",
+        "phone": "9123234126",
+        "email": "hello1@cypress.io"
+    },
+    {
+        "name": "CypressTest7",
+        "phone": "9123234127",
+        "email": "hello2@cypress.io"
+    },
+    {
+        "name": "CypressTest8",
+        "phone": "9123234128",
+        "email": "hello3@cypress.io"
+    },
+    {
+        "name": "CypressTest9",
+        "phone": "9123234129",
+        "email": "hello4@cypress.io"
+    },
+    {
+        "name": "CypressTest10",
+        "phone": "9123234120",
+        "email": "hello5@cypress.io"
+    }
+]
